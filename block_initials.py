@@ -29,3 +29,4 @@ print("BBBB    T  ")
 print("B   B   T  ")
 print("B   B   T  ")
 print("BBBB    T  ")
+
