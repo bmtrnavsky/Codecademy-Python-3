@@ -27,3 +27,10 @@ print("Languages:\n\tPython\n\tC\n\tJavaScript")
 # .strip removes extra spaceson on either side rstrip or lstrip just do one side
 favorite_language = 'Python '
 striped_favorite_language = favorite_language.rstrip()
+
+#how to use an apostrophy
+message = "One of Python's strengths is it's diverse community"
+print(message)
+#you can also use the backslash \ to ignore special charicters. 
+ignore = 'One of Python\'s strengths is it\'s diverse community'
+print(ignore)
